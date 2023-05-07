@@ -15,7 +15,7 @@ All I added on top of his work:
 
 ## Features
 
-![GIF](Docs/media/bitcore.gif)
+![GIF](Docs/media/workshop_preview.gif)
 
 - You can play the game or spectate others.
 - Gain scores and check the highscores.
