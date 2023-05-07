@@ -43,3 +43,7 @@ EditPackages=BitCore
 ## Credits
 
 - [Marco] - author of the original version.
+
+## Steam workshop
+
+<https://steamcommunity.com/sharedfiles/filedetails/?id=2972747814>
